@@ -1,6 +1,6 @@
 # welcome WTF KIJKEN JULLIE. BAAS 4 LIFE 
 https://github.com/YOUTUBEGITS/welcome/pull/1#issuecomment-4210272053
-https://youtube.com/playlist?list=PL9gYSL74h0Ig8kz1x5WPzgJ6L-VIlKEb7&si=Ay6yarSWW2rupp6Y
+
 https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c
 
 
@@ -11,7 +11,7 @@ emoji-cheat-sheet
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
 ## Table of Contents
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=jPpFch-z-1lYlmF9&amp;list=PL9gYSL74h0Ig8kz1x5WPzgJ6L-VIlKEb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - [Smileys & Emotion](#smileys--emotion)
 - [People & Body](#people--body)
 - [Animals & Nature](#animals--nature)
