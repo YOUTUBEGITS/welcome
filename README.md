@@ -27,7 +27,15 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 - [Face Smiling](#face-smiling)
 - [Face Affection](#face-affection)
-- [Face Tongue](#face-tongue)
+- [Face Tongue]https://github.com/user-attachments/assets/3b368644-1be9-4bf5-8f5f-bcac74a6b5d9
+https://github.com/user-attachments/assets/4a2edef7-1e8f-4d2e-8cba-f2df7abfbe88
+https://github.com/user-attachments/assets/8ebf326b-9750-4754-b012-ef34f7f625fe
+https://github.com/user-attachments/assets/3beb4862-5be8-41d9-84ef-3bdc7bdadc37
+https://github.com/user-attachments/assets/859b3782-d68f-4a99-8150-02454c10b10f
+https://github.com/user-attachments/assets/80d5a4f2-dc91-49b1-af08-cb8beb1eb2b5
+https://github.com/user-attachments/assets/ca18f12b-400d-4a41-9bc2-fdf4e80ee3cb
+https://github.com/user-attachments/assets/8198ff2f-441a-4b4c-8fed-b3e0b473ca54
+(#face-tongue)
 - [Face Hand](#face-hand)
 - [Face Neutral Skeptical](#face-neutral-skeptical)
 - [Face Sleepy](#face-sleepy)
