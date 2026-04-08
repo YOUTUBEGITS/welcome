@@ -2,7 +2,9 @@
 https://github.com/YOUTUBEGITS/welcome/pull/1#issuecomment-4210272053
 
 https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c
+#issues is for upload and commenting 
 
+https://github.com/YOUTUBEGITS/welcome/issues
 
 emoji-cheat-sheet
 
