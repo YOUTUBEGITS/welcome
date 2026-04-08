@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c
 
 emoji-cheat-sheet
 
-[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+[![Up to Date](https://github.com/user-attachments/assets/528d88af-5631-4aca-9d36-e4a90ba075ea)](https://github.com/YOUTUBEGITS)
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
