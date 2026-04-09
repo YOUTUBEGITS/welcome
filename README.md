@@ -6,6 +6,24 @@ https://github.com/user-attachments/assets/fbd47878-1508-49f9-8835-d06d440b8483
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#food--drink) | :baby_bottle: | :baby_bottle: | :milk_glass: | :milk_glass: | [top](#table-of-contents) |
+
+https://github.com/user-attachments/assets/6a9402a8-5e11-4eb2-a9b3-37f5991b4bf9
+
+
+
+## Table of Contents
+
+<details>
+https://github.com/user-attachments/assets/87e0fd0c-a51b-4999-9eaf-b7549afa7e5d
+
+
+
+## Table of Contents
+
+
+
+</details>
+
 | [top](#food--drink) | :coffee: | :coffee: | :teapot: | :teapot: | [top](#table-of-contents) https://github.com/YOUTUBEGITS/welcome/issues/new/choose|
 | [top](#food--drink) | :tea: | :tea: | :sake: | :sake: | [top](#table-of-contents) |
 
