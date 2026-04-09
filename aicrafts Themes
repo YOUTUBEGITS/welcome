@@ -1,0 +1,28 @@
+https://github-production-user-asset-6210df.s3.amazonaws.com/269995240/575610870-722ee259-94b6-489c-b5af-6163cdee1e9c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260409T003318Z&X-Amz-Expires=300&X-Amz-Signature=df517440d56b02d218bb060aa7e281f979144b7368284b4aa01844c71a5be297&X-Amz-SignedHeaders=host
+
+# 🌌 Project Name: Cosmic README 🌌
+
+![Header Banner](https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c)
+
+---
+
+## ✨ About the Project
+Welcome to **Project Name**, a cosmic journey through code!  
+This README has a themed background feel using emojis, banners, and colorful badges to make your project stand out.
+
+- 🚀 **Built with:** HTML, CSS, JavaScript
+- 🎨 **Theme:** Space, Cosmic, Futuristic
+- ⚡ **Features:** 
+  - Interactive dashboard
+  - Real-time updates
+  - Stunning UI/UX
+
+---
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+npm install
+npm start
