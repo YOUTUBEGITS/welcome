@@ -1,5 +1,70 @@
 #HELLO
+**
 
+**### **> - [ ] ntent
+> - [ ] YOUTUBEGITS
+> - [ ] www.Aicrafts.com
+> - [ ] Repository navigation
+> - [ ] Code
+> - [ ] Issues
+> - [ ] 1
+> - [ ]  (1)
+> - [ ] Pull requests
+> - [ ] 2
+> - [ ]  (2)
+> - [ ] Actions
+> - [ ] Projects
+> - [ ] Insights
+> - [ ] Insights: YOUTUBEGITS/www.Aicrafts.com
+> - [ ] Pulse
+> - [ ] Contributors
+> - [ ] Community
+> - [ ] Community standards
+> - [ ] Traffic
+> - [ ] Commits
+> - [ ] Code frequency
+> - [ ] Dependency graph
+> - [ ] Network
+> - [ ] Forks
+> - [ ] Actions usage metrics
+> - [ ] Actions performance metrics
+> - [ ] April 1, 2026 – April 8, 2026
+> - [ ] Overview
+> - [ ] 2 Active pull requests
+> - [ ] 2 Active issues
+> - [ ]  0
+> - [ ] Merged pull requests
+> - [ ]  2
+> - [ ] Open pull requests
+> - [ ]  1
+> - [ ] Closed issues
+> - [ ]  1
+> - [ ] New issues
+> - [ ] Summary
+> - [ ] Excluding merges, 1 author has pushed 14 commits to main and 18 commits to all branches.
+> - [ ] 
+> - [ ] On main, 0 files have changed and there have been 0 additions and 0 deletions
+> - [ ] 
+> - [ ] Top Committers
+> - [ ] Bar chart with 1 bar.
+> - [ ] View as data table, Chart
+> - [ ] The chart has 1 X axis displaying categories.
+> - [ ] The chart has 1 Y axis displaying Commits. Data ranges from 18 to 18.
+> - [ ] End of interactive chart.
+> - [ ]  2 pull requests opened by 1 person
+> - [ ] Create comments
+> - [ ] #1 opened 1 hour ago
+> - [ ] 
+> - [ ] README.MD
+> - [ ] #5 opened 13 minutes ago
+> - [ ] 
+> - [ ]  1 issue closed by 1 person
+> - [ ] Aicrafts
+> - [ ] #2 closed 3 days ago
+> - [ ] 
+> - [ ]  1 issue opened by****
+
+**<img width="4096" height="2304" alt="Image" src="[https://github.com/user-attachments/assets/528d88af-5631-4aca-9d36-e4a90ba075ea](https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c)" />
 https://github.com/YOUTUBEGITS/welcome/pull/1#issuecomment-4210272053
 
 #YOUTUBE 
