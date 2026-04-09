@@ -13,7 +13,7 @@
 **### **> - [ ] ntent
 > - [ ] YOUTUBEGITS
 > - [ ] www.Aicrafts.com
-> - [ ] 
+> - [ ] <img width="22" height="25" alt="Image" src="https://github.com/user-attachments/assets/e2d11c4f-ca6c-4e80-9edb-90343178df51" />
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
