@@ -4,7 +4,10 @@
 **### **> - [ ] ntent
 > - [ ] YOUTUBEGITS
 > - [ ] www.Aicrafts.com
-> - [ ] Repository navigation
+> - [ ] 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 > - [ ] Code
 > - [ ] Issues
 > - [ ] 1
@@ -64,7 +67,7 @@
 > - [ ] 
 > - [ ]  1 issue opened by****
 
-**<img width="4096" height="2304" alt="Image" src="[https://github.com/user-attachments/assets/528d88af-5631-4aca-9d36-e4a90ba075ea](https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c)" />
+**<img width="4096" height="2304" alt="Image" src="[https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c](https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c)" />
 https://github.com/YOUTUBEGITS/welcome/pull/1#issuecomment-4210272053
 
 #YOUTUBE 
