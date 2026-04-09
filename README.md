@@ -1,3 +1,13 @@
+#### Drink
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :baby_bottle: | :baby_bottle: | :milk_glass: | :milk_glass: | [top](#table-of-contents) |
+| [top](#food--drink) | :coffee: | :coffee: | :teapot: | :teapot: | [top](#table-of-contents) |
+| [top](#food--drink) | :tea: | :tea: | :sake: | :sake: | [top](#table-of-contents) |
+
+
+
 git clone https://github.com/username/cosmic-project.git
 cd cosmic-project
 npm install
